@@ -1,0 +1,212 @@
+{
+  "_Icon-_lmFazLS.js": {
+    "file": "assets/Icon-_lmFazLS.js",
+    "name": "Icon",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "_api-origin-BR5qOrhn.js": {
+    "file": "assets/api-origin-BR5qOrhn.js",
+    "name": "api-origin"
+  },
+  "_createLucideIcon-Da4ey8r5.js": {
+    "file": "assets/createLucideIcon-Da4ey8r5.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_Icon-_lmFazLS.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "_framework-CXnKph_e.js": {
+    "file": "assets/framework-CXnKph_e.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js"
+    ]
+  },
+  "_query-DZOG5WwV.js": {
+    "file": "assets/query-DZOG5WwV.js",
+    "name": "query"
+  },
+  "_rolldown-runtime-S-ySWqyJ.js": {
+    "file": "assets/rolldown-runtime-S-ySWqyJ.js",
+    "name": "rolldown-runtime"
+  },
+  "_site-content-DOUDwPyO.js": {
+    "file": "assets/site-content-DOUDwPyO.js",
+    "name": "site-content"
+  },
+  "_useManualCarousel-DsCTwtmw.js": {
+    "file": "assets/useManualCarousel-DsCTwtmw.js",
+    "name": "useManualCarousel",
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_createLucideIcon-Da4ey8r5.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "node_modules/three/build/three.module.js": {
+    "file": "assets/three.module-Djo66mXo.js",
+    "name": "three.module",
+    "src": "node_modules/three/build/three.module.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "assets/layout-segment-context-D1W5Tgsn.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "node_modules/vinext/dist/shims/router.js": {
+    "file": "assets/router-BY0OiL_4.js",
+    "name": "router",
+    "src": "node_modules/vinext/dist/shims/router.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js",
+      "_query-DZOG5WwV.js"
+    ],
+    "dynamicImports": [
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/admin/AdminApp.tsx": {
+    "file": "assets/AdminApp-BF0fpP0G.js",
+    "name": "AdminApp",
+    "src": "src/components/admin/AdminApp.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_createLucideIcon-Da4ey8r5.js",
+      "_framework-CXnKph_e.js",
+      "_query-DZOG5WwV.js",
+      "_api-origin-BR5qOrhn.js"
+    ],
+    "dynamicImports": [
+      "node_modules/vinext/dist/shims/router.js"
+    ]
+  },
+  "src/components/sections/AetherFlowBackground.tsx": {
+    "file": "assets/AetherFlowBackground-BqJHQbDz.js",
+    "name": "AetherFlowBackground",
+    "src": "src/components/sections/AetherFlowBackground.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/sections/AnomalousMatter.tsx": {
+    "file": "assets/AnomalousMatter-BX_X3-CY.js",
+    "name": "AnomalousMatter",
+    "src": "src/components/sections/AnomalousMatter.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-CXnKph_e.js"
+    ],
+    "dynamicImports": [
+      "node_modules/three/build/three.module.js"
+    ]
+  },
+  "src/components/sections/CircularDirections.tsx": {
+    "file": "assets/CircularDirections-Cv0PvAiu.js",
+    "name": "CircularDirections",
+    "src": "src/components/sections/CircularDirections.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_useManualCarousel-DsCTwtmw.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/sections/ContactForm.tsx": {
+    "file": "assets/ContactForm-D3Hn-Ygv.js",
+    "name": "ContactForm",
+    "src": "src/components/sections/ContactForm.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js",
+      "_site-content-DOUDwPyO.js",
+      "_api-origin-BR5qOrhn.js"
+    ]
+  },
+  "src/components/sections/HumanTeam.tsx": {
+    "file": "assets/HumanTeam-DsClIK01.js",
+    "name": "HumanTeam",
+    "src": "src/components/sections/HumanTeam.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_useManualCarousel-DsCTwtmw.js",
+      "_framework-CXnKph_e.js",
+      "_site-content-DOUDwPyO.js"
+    ]
+  },
+  "src/components/sections/LiveWorkflowChat.tsx": {
+    "file": "assets/LiveWorkflowChat-VQa4fq-G.js",
+    "name": "LiveWorkflowChat",
+    "src": "src/components/sections/LiveWorkflowChat.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/sections/OrbitalBusinessFlow.tsx": {
+    "file": "assets/OrbitalBusinessFlow-5SBflRZZ.js",
+    "name": "OrbitalBusinessFlow",
+    "src": "src/components/sections/OrbitalBusinessFlow.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ]
+  },
+  "src/components/sections/WorkProcess.tsx": {
+    "file": "assets/WorkProcess-CtG2e1zP.js",
+    "name": "WorkProcess",
+    "src": "src/components/sections/WorkProcess.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_useManualCarousel-DsCTwtmw.js",
+      "_framework-CXnKph_e.js",
+      "_site-content-DOUDwPyO.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "assets/index-6q5WULCn.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-CXnKph_e.js"
+    ],
+    "dynamicImports": [
+      "src/components/sections/OrbitalBusinessFlow.tsx",
+      "node_modules/vinext/dist/shims/layout-segment-context.js",
+      "src/components/sections/HumanTeam.tsx",
+      "src/components/sections/WorkProcess.tsx",
+      "_Icon-_lmFazLS.js",
+      "src/components/admin/AdminApp.tsx",
+      "virtual:vinext-app-browser-entry",
+      "src/components/sections/ContactForm.tsx",
+      "src/components/sections/AetherFlowBackground.tsx",
+      "src/components/sections/CircularDirections.tsx",
+      "src/components/sections/AnomalousMatter.tsx",
+      "src/components/sections/LiveWorkflowChat.tsx"
+    ]
+  }
+}

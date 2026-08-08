@@ -1,0 +1,1 @@
+var e=`https://api.ultimate-tech.ru`;function t(t){return typeof window>`u`||[`localhost`,`127.0.0.1`].includes(window.location.hostname)?t:`${e}${t}`}export{t};

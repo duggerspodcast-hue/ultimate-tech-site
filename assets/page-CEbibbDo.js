@@ -1,0 +1,1 @@
+import{r as e}from"./framework-CXnKph_e.js";import{l as t}from"./index-1xco2heP.js";import n from"./AdminShell-CLvkScwN.js";var r=e();function i(){return(0,r.jsx)(n,{view:`order`,orderId:t().get(`id`)||``})}export{i as default};

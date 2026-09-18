@@ -1,0 +1,1 @@
+import{r as e}from"./framework-CXnKph_e.js";import{l as t}from"./index-CnjXTL5l.js";import n from"./AdminShell-Dl5azKqP.js";var r=e();function i(){return(0,r.jsx)(n,{view:`product-edit`,productId:t().get(`id`)||``})}export{i as default};
